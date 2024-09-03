@@ -4,4 +4,4 @@
 - ⚡ Facts about me: In my free time, I read about global trends (economy, AI, sociology, psychology, real estate etc.), paint with watercolors, go for long walks, exercise at home, admire art and architecture and take care of my cat.
 
   
-#catmum #designlover
+#catmom #designlover
