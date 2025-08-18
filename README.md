@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Iga54
-- 👀 I am an open-minded person who embraces change, eagerly learns new programs, and continuously strives to implement AI solutions in everyday life. I am currently seeking a position as a software tester. JavaScript, TypeScript, Postman, and SQL are familiar to me. I can create automated GUI tests using Playwright, API tests in JavaScript and API tests in Postman, and my results can be tracked in my GitHub repositories.
-- 🌱 I’m currently learning new functionalities in Playwright.
-- ⚡ Facts about me: In my free time, I read about global trends (economy, AI, sociology, psychology, real estate etc.), paint with watercolors, go for long walks, exercise at home, admire art and architecture and take care of my cat.
+- 👋 👩🏻‍💻 Hi, I’m @Iga54. ISTQB-certified Junior QA Engineer with expertise in manual and automated testing (API & UI) using JavaScript, TypeScript, Playwright, Postman, and Swagger. Strong foundation in SQL, testing theory, and Agile methodologies, with practical project experience demonstrated on GitHub.
+  
+- 💻 My tech skills showcased on GitHub:
+    -  Creating automated API tests using JavaScript with frameworks such as Mocha, Chai, and Supertest
+    -  Manual testing and creating automated UI tests using TypeScript and Playwright
+    -  API tests with Postman, and Swagger
+    -  Writing test plans, test cases, bug reports
+      
+- 🌱 I’m currently learning new functionalities (fixtures) in Playwright.
+  
+- 🧠 My career goals:
+    - I aim to further develop my skills in automated testing with Playwright
+    - I would like to expand my expertise in accessibility testing (WCAG standards)
+
+
 
   
-#catmom #designlover
