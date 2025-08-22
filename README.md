@@ -5,6 +5,7 @@
     -  Manual testing and creating automated UI tests using **TypeScript** and **Playwright**
     -  API tests with **Postman**, and **Swagger**
     -  Writing test plans, test cases, bug reports
+    -  Basics of **SQL**
     -  **DevTools**
   
       
