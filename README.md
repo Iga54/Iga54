@@ -1,6 +1,6 @@
 - 👋 👩🏻‍💻 Hi, I’m @Iga54. ISTQB-certified Junior QA Engineer with expertise in manual and automated testing (API & UI) using JavaScript, TypeScript, Playwright, Postman, and Swagger. Solid foundation in testing theory and hands-on project experience showcased on GitHub.
   
-- 💻 My tech skills showcased on GitHub:
+- 💻 My tech skills:
     -  Creating automated API tests using **JavaScript** with frameworks such as **Mocha**, **Chai**, and **Supertest**
     -  Manual testing and creating automated UI tests using **TypeScript** and **Playwright**
     -  API tests with **Postman**, and **Swagger**
