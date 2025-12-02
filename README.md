@@ -9,7 +9,7 @@
     -  **DevTools**
   
       
-- 🌱 I’m currently learning new functionalities (fixtures) in Playwright.
+- 🌱 I’m currently learning new functionalities (fixtures) in Playwright
   
 - 🧠 My career goals:
     - I aim to further develop my skills in automated testing (UI) with Playwright 
