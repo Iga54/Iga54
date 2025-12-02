@@ -12,7 +12,8 @@
 - 🌱 I’m currently learning new functionalities (fixtures) in Playwright
   
 - 🧠 My career goals:
-    - I aim to further develop my skills in automated testing (UI) with Playwright 
+    - I aim to further develop my skills in automated testing (UI) with Playwright
+    - AI-Driven Testing with Playwright and AI agents
     - I would like to expand my expertise in accessibility testing (WCAG standards)
 
 
